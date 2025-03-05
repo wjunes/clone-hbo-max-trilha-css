@@ -5,15 +5,6 @@ Este proyecto es un clon de la página de HBO Max creado con fines educativos. E
 ## Estructura del Proyecto
 
 El proyecto tiene la siguiente estructura de directorios:
-Recopilando información del área de trabajo
-
-# Clon de HBO Max
-
-Este proyecto es un clon de la página de HBO Max creado con fines educativos. El objetivo es replicar la interfaz de usuario y algunas funcionalidades básicas utilizando HTML y CSS.
-
-## Estructura del Proyecto
-
-El proyecto tiene la siguiente estructura de directorios:
 ```
 
 .dist/
